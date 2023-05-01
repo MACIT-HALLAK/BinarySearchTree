@@ -3,6 +3,8 @@
 
 Bu projede veri yapı dersinde bir ödev şeklinde gerçekleşti.
 
+C# dilini kullanarak kodlandı.
+
 İçinde gerçekleşen işlemler:
 
 Düğüm Ekle
