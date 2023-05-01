@@ -1,0 +1,9 @@
+c:\users\ouda\documents\visual studio 2015\Projects\TreeProject\bin\Debug\TreeProject.exe.config
+c:\users\ouda\documents\visual studio 2015\Projects\TreeProject\bin\Debug\TreeProject.exe
+c:\users\ouda\documents\visual studio 2015\Projects\TreeProject\bin\Debug\TreeProject.pdb
+c:\users\ouda\documents\visual studio 2015\Projects\TreeProject\obj\Debug\TreeProject.csprojResolveAssemblyReference.cache
+c:\users\ouda\documents\visual studio 2015\Projects\TreeProject\obj\Debug\TreeProject.Form1.resources
+c:\users\ouda\documents\visual studio 2015\Projects\TreeProject\obj\Debug\TreeProject.Properties.Resources.resources
+c:\users\ouda\documents\visual studio 2015\Projects\TreeProject\obj\Debug\TreeProject.csproj.GenerateResource.Cache
+c:\users\ouda\documents\visual studio 2015\Projects\TreeProject\obj\Debug\TreeProject.exe
+c:\users\ouda\documents\visual studio 2015\Projects\TreeProject\obj\Debug\TreeProject.pdb
